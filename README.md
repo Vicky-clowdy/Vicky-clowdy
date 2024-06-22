@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Vicky-clowdy
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Full-stack Development
-- 📫 How to reach me through E-mail - vigneshselvam504@gmail.com
+- 👋 Hi, I’m Vicky
 - 😄 Pronouns: He/Him
